@@ -34,3 +34,31 @@ therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a ve
 * 'test/X_test.txt': Test set.
 
 * 'test/y_test.txt': Test labels.
+
+##Processing Steps
+==========================
+
+* Step 1 : Read required Files
+
+Read training and test files along with subject and activity info.
+
+* Step 2 : Assigning appropriate Column Names
+
+Assign column names to the data files.
+
+* Step 3 : Extracts only the measurements on the mean and standard deviation for each measurement.
+
+Using grep select only the mean() and std() measures
+
+* Step 4 : Merges the training and the test sets to create one data set
+
+Merge the training and test data sets using cbind and rbind.
+
+* Step 5 : Create Tidy Data
+
+Create and write tidy data set using reshare functions
+
+
+
+
+
