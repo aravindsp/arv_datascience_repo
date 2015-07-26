@@ -7,7 +7,8 @@ This is a code book for tidy data set generated as part of Getting and Cleaning 
 Following are the ID Columns
 *    1) ActivityId
 *    2) SubjectId
-*    3) ActivityType   
+*    3) ActivityType 
+   
 ---------------------------------------------------------------------------
         
 ##Measures
