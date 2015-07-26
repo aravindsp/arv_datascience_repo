@@ -7,9 +7,8 @@
 *    2) SubjectId
 *    3) ActivityType   
 *        
-#
-## Measures
-###Following are the ID Measures
+##Measures
+###Following are the Measures
 *
 *    1) fBodyAccJerk-mean()-X
 *    2) fBodyAccJerk-mean()-Y
