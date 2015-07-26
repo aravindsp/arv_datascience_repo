@@ -1,14 +1,18 @@
 #Codebook for tidy data
-*This is a code book for tidy data set generated as part of Getting and Cleaning Data course Project
-#
+This is a code book for tidy data set generated as part of Getting and Cleaning Data course Project
+---------------------------------------------------------------------------
+
 ## ID Columns
-###Following are the ID Columns
+
+Following are the ID Columns
 *    1) ActivityId
 *    2) SubjectId
 *    3) ActivityType   
-*        
+---------------------------------------------------------------------------
+        
 ##Measures
-###Following are the Measures
+
+Following are the Measures
 *
 *    1) fBodyAccJerk-mean()-X
 *    2) fBodyAccJerk-mean()-Y
