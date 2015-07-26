@@ -5,7 +5,8 @@
 ###Following are the ID Columns
 *    1) ActivityId
 *    2) SubjectId
-*    3) ActivityType
+*    3) ActivityType   
+*        
 #
 ## Measures
 ###Following are the ID Measures
